@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 public class InternetBill extends Bill implements Serializable {
 
-    private final String type ="Internet Bill";
+    private final String type ="Internessst Bill";
     private int amount;
     private Date date;
 
